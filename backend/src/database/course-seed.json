@@ -1,0 +1,280 @@
+[
+  {
+    "id": "10000000-0000-4000-8000-000000000001",
+    "title": "UI/UX Design Fundamentals",
+    "description": "Turn thoughtful ideas into digital experiences people love. Learn to research, wireframe, and bring your first interface to life.",
+    "category": "DESIGN",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?auto=format&fit=crop&w=1000&q=85",
+    "instructorName": "Alex Morgan",
+    "level": "BEGINNER",
+    "outcomes": [
+      "Understand the people behind the screen",
+      "Translate ideas into clear wireframes",
+      "Build a consistent visual design system"
+    ],
+    "lessons": [
+      {
+        "id": "20000000-0000-4000-8000-000000000101",
+        "title": "Welcome to human-centered design",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 1
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000102",
+        "title": "Research before you create",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 2
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000103",
+        "title": "Wireframes & user flows",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 3
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000104",
+        "title": "Typography & visual hierarchy",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 4
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000105",
+        "title": "Introduction to design systems",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 5
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000106",
+        "title": "Bring your ideas together",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": "10000000-0000-4000-8000-000000000002",
+    "title": "Build for the Modern Web",
+    "description": "From your first component to a responsive website. Get comfortable with the building blocks of the modern web.",
+    "category": "DEVELOPMENT",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1000&q=85",
+    "instructorName": "Jamie Chen",
+    "level": "BEGINNER",
+    "outcomes": [
+      "Create semantic and accessible pages",
+      "Build reusable React components",
+      "Make layouts work on every screen"
+    ],
+    "lessons": [
+      {
+        "id": "20000000-0000-4000-8000-000000000201",
+        "title": "How the web works",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 1
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000202",
+        "title": "HTML with purpose",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 2
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000203",
+        "title": "Layout with CSS",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 3
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000204",
+        "title": "Your first React component",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 4
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000205",
+        "title": "Building responsive layouts",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 5
+      }
+    ]
+  },
+  {
+    "id": "10000000-0000-4000-8000-000000000003",
+    "title": "Make Sense of Data with Python",
+    "description": "Ask better questions, find useful patterns, and tell a clear story with data. Start your analytical thinking journey.",
+    "category": "DATA_SCIENCE",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1000&q=85",
+    "instructorName": "Sam Rivera",
+    "level": "INTERMEDIATE",
+    "outcomes": [
+      "Clean and explore a dataset",
+      "Find patterns using Python",
+      "Create clear data visualizations"
+    ],
+    "lessons": [
+      {
+        "id": "20000000-0000-4000-8000-000000000301",
+        "title": "Start with a good question",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 1
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000302",
+        "title": "Meet your dataset",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 2
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000303",
+        "title": "Cleaning with pandas",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 3
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000304",
+        "title": "Data visualization essentials",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "id": "10000000-0000-4000-8000-000000000004",
+    "title": "Digital Marketing, Thoughtfully",
+    "description": "Connect good ideas with the right people. Build a practical strategy for content, campaigns, and sustainable growth.",
+    "category": "BUSINESS",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1000&q=85",
+    "instructorName": "Taylor Brooks",
+    "level": "BEGINNER",
+    "outcomes": [
+      "Define your audience and message",
+      "Build a focused content strategy",
+      "Measure what matters"
+    ],
+    "lessons": [
+      {
+        "id": "20000000-0000-4000-8000-000000000401",
+        "title": "Find your audience",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 1
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000402",
+        "title": "A message that connects",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 2
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000403",
+        "title": "Your content strategy",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 3
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000404",
+        "title": "Measure and improve",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "id": "10000000-0000-4000-8000-000000000005",
+    "title": "A Fresh Approach to Creative Thinking",
+    "description": "Make space for better ideas. Explore practical exercises to get unstuck and approach familiar problems with fresh eyes.",
+    "category": "DESIGN",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1000&q=85",
+    "instructorName": "Alex Morgan",
+    "level": "ALL_LEVELS",
+    "outcomes": [
+      "Challenge your first assumption",
+      "Develop a repeatable idea practice",
+      "Explore solutions with confidence"
+    ],
+    "lessons": [
+      {
+        "id": "20000000-0000-4000-8000-000000000501",
+        "title": "Make room for curiosity",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 1
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000502",
+        "title": "Reframe the problem",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 2
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000503",
+        "title": "Explore, then refine",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 3
+      }
+    ]
+  },
+  {
+    "id": "10000000-0000-4000-8000-000000000006",
+    "title": "Communicate with Confidence",
+    "description": "Share your thinking, give useful feedback, and make collaboration feel easier. Small habits for better teamwork.",
+    "category": "BUSINESS",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1000&q=85",
+    "instructorName": "Taylor Brooks",
+    "level": "ALL_LEVELS",
+    "outcomes": [
+      "Structure your ideas clearly",
+      "Give actionable feedback",
+      "Create better team conversations"
+    ],
+    "lessons": [
+      {
+        "id": "20000000-0000-4000-8000-000000000601",
+        "title": "Start by listening",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 1
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000602",
+        "title": "Make your message clear",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 2
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000603",
+        "title": "Feedback that helps",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 3
+      },
+      {
+        "id": "20000000-0000-4000-8000-000000000604",
+        "title": "Better conversations",
+        "durationSeconds": 5,
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "order": 4
+      }
+    ]
+  }
+]

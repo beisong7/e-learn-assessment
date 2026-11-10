@@ -1,0 +1,42 @@
+# These patterns apply at every depth, including frontend/ and backend/.
+
+# Installed dependencies and generated builds
+node_modules/
+dist/
+build/
+*.tsbuildinfo
+
+# Private environment files; commit the documented templates
+.env
+.env.*
+!.env.example
+
+# Automated test output and tool caches
+coverage/
+.nyc_output/
+playwright-report/
+test-results/
+blob-report/
+.cache/
+.vite/
+.vitest/
+.eslintcache
+.prettiercache
+
+# Runtime logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating-system and local editor files
+.DS_Store
+._*
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# other folders
+/docs/

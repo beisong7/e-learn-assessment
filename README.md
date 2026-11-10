@@ -1,5 +1,7 @@
 # Learnova — Mini Learning Platform
 
+![Learnova landing page](img/landing.png)
+
 An assessment LMS built with React + TypeScript, Node.js + TypeScript, and PostgreSQL. It includes a marketing landing page, registration/login, searchable courses, enrollment, video resume and completion, learner dashboards, course/lesson administration, learner enable/disable, and administrator creation.
 
 ## Prerequisites
@@ -125,6 +127,8 @@ These credentials apply after seeding with `SEED_DEMO_PASSWORD=password123`:
 Public registration creates learners. Administrators can create additional admin accounts through **Manage users**.
 
 ### Learner and admin walkthrough
+
+![Learnova learner dashboard showing enrolled courses and learning progress](img/dashboard.png)
 
 1. Register a learner: a three-step welcome guide explains Dashboard, Explore courses, and My learning. Ordinary login and refresh do not replay the guide.
 2. Browse/search courses, open course details, and enroll.
